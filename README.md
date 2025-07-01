@@ -16,7 +16,7 @@ A Java-based **Command-Line Interface (CLI)** application that simulates smart h
 
 - Java
 - Object-Oriented Programming (OOP) principles
-- Java Collections Framework (ArrayList, HashMap, etc.)
+- Java Collections Framework.
 - Command-Line Interface (CLI)
 
 ## Learning Focus
